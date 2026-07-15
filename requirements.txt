@@ -1,0 +1,2 @@
+# Tidak ada library eksternal yang wajib dipasang.
+# Program menggunakan library bawaan Python: json, pathlib, typing, unittest.

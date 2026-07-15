@@ -1,0 +1,25 @@
+CARA MENJALANKAN PROYEK DI VS CODE
+
+1. Extract file ZIP.
+2. Buka folder Sistem_Manajemen_Akademik_Mahasiswa_OOP di VS Code.
+3. Buka terminal.
+4. Jalankan:
+   python main.py
+
+Jika menggunakan Windows dan perintah python tidak aktif, jalankan:
+   py main.py
+
+CARA MENJALANKAN TESTING
+
+python -m unittest discover tests
+
+FITUR UTAMA
+
+1. Kelola mahasiswa.
+2. Kelola dosen.
+3. Kelola mata kuliah.
+4. Buat KRS.
+5. Tambahkan mata kuliah ke KRS.
+6. Input nilai.
+7. Hitung nilai akhir, huruf mutu, status lulus, dan IPS.
+8. Simpan data ke JSON.

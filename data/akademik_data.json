@@ -1,0 +1,76 @@
+{
+    "nama_institusi": "Sistem Manajemen Akademik Mahasiswa",
+    "mahasiswa": [
+        {
+            "nim": "2024001",
+            "nama": "Aulia Rahma",
+            "email": "aulia@mail.com",
+            "jurusan": "Sistem Informasi",
+            "angkatan": 2024
+        },
+        {
+            "nim": "2024002",
+            "nama": "Bima Pratama",
+            "email": "bima@mail.com",
+            "jurusan": "Sistem Informasi",
+            "angkatan": 2024
+        }
+    ],
+    "dosen": [
+        {
+            "nip": "D001",
+            "nama": "Dr. Raka Prasetya",
+            "email": "raka@kampus.ac.id",
+            "keahlian": "Pemrograman",
+            "mata_kuliah_diampu": [
+                "MK001"
+            ]
+        },
+        {
+            "nip": "D002",
+            "nama": "Dr. Nisa Kartika",
+            "email": "nisa@kampus.ac.id",
+            "keahlian": "Basis Data",
+            "mata_kuliah_diampu": [
+                "MK002"
+            ]
+        }
+    ],
+    "mata_kuliah": [
+        {
+            "kode_mk": "MK001",
+            "nama_mk": "Bahasa Pemrograman",
+            "sks": 3,
+            "semester": 1,
+            "nip_dosen": "D001"
+        },
+        {
+            "kode_mk": "MK002",
+            "nama_mk": "Basis Data",
+            "sks": 3,
+            "semester": 1,
+            "nip_dosen": "D002"
+        }
+    ],
+    "krs": [
+        {
+            "id_krs": "KRS-2024001-1-2024-2025",
+            "nim": "2024001",
+            "semester": 1,
+            "tahun_akademik": "2024/2025",
+            "mata_kuliah": [
+                "MK001",
+                "MK002"
+            ],
+            "nilai": [
+                {
+                    "nim": "2024001",
+                    "kode_mk": "MK001",
+                    "tugas": 85.0,
+                    "uts": 88.0,
+                    "uas": 90.0
+                }
+            ]
+        }
+    ]
+}
