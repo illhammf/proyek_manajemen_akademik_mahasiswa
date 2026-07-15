@@ -14,6 +14,13 @@
             "email": "bima@mail.com",
             "jurusan": "Sistem Informasi",
             "angkatan": 2024
+        },
+        {
+            "nim": "20240801102",
+            "nama": "Ilham Firmansyah",
+            "email": "ilhamfrafli@gmail.com",
+            "jurusan": "Teknik Informatika",
+            "angkatan": 2024
         }
     ],
     "dosen": [
